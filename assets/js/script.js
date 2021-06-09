@@ -8,7 +8,7 @@ var button = document.querySelector("#Quest");
 
 var scoreBoard = document.querySelector("#score");
 
-var questionsArray = ["click is considered an:", "1000ms is considered an:", "an HTML element might be labeled a:", "anonymous can denote a:"];
+var questionsArray = ["click/enter to target an:", "1000ms is a standard:", "use querySelectors to assign a:", "JavaScript is primarily for:"];
 
 
 //Purple Question Button Random Question from Question Array
