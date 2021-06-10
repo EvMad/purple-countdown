@@ -10,3 +10,4 @@ There is a 30 second timer which counts down as the client matches the terms to 
 
 ## Usage
 
+The "start" button will initiate a 30 second countdown. The Question button, and answer buttons, will generate a new question.
